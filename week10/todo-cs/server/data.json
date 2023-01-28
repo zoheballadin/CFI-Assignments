@@ -1,0 +1,30 @@
+[
+  {
+    "email": "zoheb@yahoo.com",
+    "username": "zoheb",
+    "password": "$2b$12$WhyXx3yyHx3x8.OnWfjTEebQdj6kzQ1l114vIDg3GU.NGpVE82Xfy",
+    "location": "hyderabad",
+    "phone": "1111111111",
+    "todos": []
+  },
+  {
+    "email": "zoheb@gmail.com",
+    "username": "zoheb@gmail.com",
+    "password": "$2b$12$atw8GWMcGby9ODKNogfYBu0wcntEQ1FS6f.ZiWDi37jJD93.cz4Mi",
+    "location": "hyderabad",
+    "phone": "1111111111",
+    "todos": [
+      { "todoName": "EATING", "isCompleted": false, "todo_id": "JkIJwNy8xuDb" },
+      {
+        "todoName": "sleeping",
+        "isCompleted": false,
+        "todo_id": "gtFXtTxJkre9"
+      },
+      {
+        "todoName": "todo cs model",
+        "isCompleted": true,
+        "todo_id": "ZAfGn1ofeP30"
+      }
+    ]
+  }
+]

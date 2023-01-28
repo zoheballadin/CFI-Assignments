@@ -1,0 +1,18 @@
+[
+  {
+    "email": "zoheb@gmail.com",
+    "username": "zoheballadin",
+    "password": "$2b$12$u4uSqeUnzAt1lbhNz2LCZOaqIJZPLXMsR8Kfaj.G6SurpXFAkYJAG",
+    "location": "hyd",
+    "phone": "1234567890",
+    "todos": []
+  },
+  {
+    "email": "zoheb@all.com",
+    "username": "zoheballadin",
+    "password": "$2b$12$wwUxn8jawjAQipflDWPAG.d4W7/xvUsdGGb8.oLKMFkX7XlNop0Ca",
+    "location": "hyderabad",
+    "phone": "1111111111",
+    "todos": []
+  }
+]

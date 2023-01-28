@@ -1,0 +1,16 @@
+[
+  {
+    "username": "hello",
+    "password": "pass",
+    "email": "h@1.com",
+    "location": "hyd",
+    "phone": "234"
+  },
+  {
+    "username": "zoheballadin",
+    "password": "pass",
+    "email": "zoheb@gmail.com",
+    "location": "hyd",
+    "phone": "1234"
+  }
+]
